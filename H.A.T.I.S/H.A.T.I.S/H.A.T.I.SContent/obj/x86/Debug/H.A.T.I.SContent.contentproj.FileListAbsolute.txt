@@ -1,0 +1,2 @@
+c:\users\dylan\H.A.T.I.S\H.A.T.I.S\H.A.T.I.SContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\GitHub\H.A.T.I.S\H.A.T.I.S\H.A.T.I.SContent\obj\x86\Debug\ResolveAssemblyReference.cache
